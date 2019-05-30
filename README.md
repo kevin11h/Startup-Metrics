@@ -1,5 +1,7 @@
-# Startup-Metrics
+# Startup Metrics
 Method - Metric - Measure - Manage - Monetize.   Mission, Mantra, Meaning
+
+Activate  Acquire.  Retain Return Refer Revisit Recurrence
 
 1.  https://www.inc.com/craig-bloem/5-key-metrics-every-early-stage-business-must-track.html
 
