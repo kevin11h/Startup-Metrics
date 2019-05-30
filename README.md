@@ -92,3 +92,11 @@ Vanity metrics for one company may be actionable metrics for another. For exampl
 
 A typical example of a vanity metric is "the number of new users gained per day". While a high number of users gained per day seems beneficial to any company, if the cost of acquiring each user through expensive advertising campaigns is significantly higher than the revenue gained per user, then gaining more users could quickly lead to bankruptcy.
 
+
+# https://guykawasaki.com/books/the-art-of-the-start/
+
+• INCLUDE THE KEY METRICS, SUCH AS THE NUMBER OF CUSTOMERS, LOCATIONS, AND RESELLERS. Often these metrics
+provide a better understanding of an organization's plans than financial projections. For example, you may project that you'll sell to
+250 of the Fortune 500 companies in the first year.
+• INCLUDE THE ASSUMPTIONS THAT DRIVE YOUR FINANCIAL
+PROJECTIONS. 
