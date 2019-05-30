@@ -100,3 +100,10 @@ provide a better understanding of an organization's plans than financial project
 250 of the Fortune 500 companies in the first year.
 • INCLUDE THE ASSUMPTIONS THAT DRIVE YOUR FINANCIAL
 PROJECTIONS. 
+
+
+Mike Moritz
+
+"We like a few well-thought-out projections (by quarter for
+the first two years and annually for years 3, 4, and 5) that present a
+profit-and-loss statement, a balance sheet, and cash flow projections"
